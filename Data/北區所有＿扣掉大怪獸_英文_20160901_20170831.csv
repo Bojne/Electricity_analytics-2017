@@ -1,4 +1,4 @@
-時  間,區 域,館 舍 別,迴 路 別,用電別,用電量(單位:度)
+Date,Area,bd_name,loop,Type,Usage
 2017/08,North,Tien_gia_bin,主迴路                 ,Teach                  ,421187.8
 2017/08,North,SC,主迴路                 ,Teach                  ,322267
 2017/08,North,EECS,主迴路                 ,Teach                  ,305416
@@ -17,7 +17,7 @@
 2017/08,North,Gym,主迴路                 ,Admin                  ,39249.63
 2017/08,North,HA1,主迴路                 ,Teach                  ,26428.16
 2017/08,North,Manegement1,主迴路                 ,Teach                  ,25850.06
-2017/08,North,HABuilding2 ,主迴路                 ,Teach                  ,24291.25
+2017/08,North,HABuilding2,主迴路                 ,Teach                  ,24291.25
 2017/08,North,ActivityCenter,第一餐聽                ,Rented                  ,23959.88
 2017/08,North,Engineer1,主迴路                 ,Teach                  ,23307
 2017/08,North,DinningHall2,1F便利超商動力,Rented                  ,21580.5
@@ -79,7 +79,7 @@
 2017/07,North,Gym,主迴路                 ,Admin                  ,35203.38
 2017/07,North,SD10,主迴路                 ,Dorm                  ,27944.19
 2017/07,North,Manegement1,主迴路                 ,Teach                  ,27669.63
-2017/07,North,HABuilding2 ,主迴路                 ,Teach                  ,25394.25
+2017/07,North,HABuilding2,主迴路                 ,Teach                  ,25394.25
 2017/07,North,HA1,主迴路                 ,Teach                  ,24358.81
 2017/07,North,ActivityCenter,第一餐聽                ,Rented                  ,23245.63
 2017/07,North,Engineer1,主迴路                 ,Teach                  ,21355.5
@@ -142,7 +142,7 @@
 2017/06,North,Manegement1,主迴路                 ,Teach                  ,31214.06
 2017/06,North,DinningHall2,1F動力1,Rented                  ,30670.38
 2017/06,North,Chu-HsuanFemale,主迴路                 ,Dorm                  ,28644.16
-2017/06,North,HABuilding2 ,主迴路                 ,Teach                  ,26609.13
+2017/06,North,HABuilding2,主迴路                 ,Teach                  ,26609.13
 2017/06,North,ActivityCenter,第一餐聽                ,Rented                  ,23969.38
 2017/06,North,DinningHall2,1F便利超商動力,Rented                  ,21033
 2017/06,North,Engineer1,主迴路                 ,Teach                  ,19396.13
@@ -201,7 +201,7 @@
 2017/05,North,Manegement1,主迴路                 ,Teach                  ,30093.88
 2017/05,North,Info(North),主迴路                 ,Admin                  ,29826.7
 2017/05,North,DinningHall2,1F動力1,Rented                  ,27259.13
-2017/05,North,HABuilding2 ,主迴路                 ,Teach                  ,24886.13
+2017/05,North,HABuilding2,主迴路                 ,Teach                  ,24886.13
 2017/05,North,ActivityCenter,第一餐聽                ,Rented                  ,23295
 2017/05,North,Motocycle,主迴路                 ,Admin                  ,18462.56
 2017/05,North,Engineer1,主迴路                 ,Teach                  ,18443
@@ -259,7 +259,7 @@
 2017/04,North,CCAuditorium,主迴路                 ,Admin                  ,22082.66
 2017/04,North,GraduateDorm1,主迴路                 ,Dorm                  ,21457.25
 2017/04,North,Chu-HsuanFemale,主迴路                 ,Dorm                  ,21062.78
-2017/04,North,HABuilding2 ,主迴路                 ,Teach                  ,19350.63
+2017/04,North,HABuilding2,主迴路                 ,Teach                  ,19350.63
 2017/04,North,DinningHall2,1F便利超商動力,Rented                  ,18583.63
 2017/04,North,Motocycle,主迴路                 ,Admin                  ,17249.94
 2017/04,North,ActivityCenter,第一餐聽                ,Rented                  ,17054.25
@@ -318,7 +318,7 @@
 2017/03,North,Manegement1,主迴路                 ,Teach                  ,21471.19
 2017/03,North,HA1,主迴路                 ,Teach                  ,20375.88
 2017/03,North,GraduateDorm1,主迴路                 ,Dorm                  ,19931.5
-2017/03,North,HABuilding2 ,主迴路                 ,Teach                  ,19476.13
+2017/03,North,HABuilding2,主迴路                 ,Teach                  ,19476.13
 2017/03,North,Chu-HsuanFemale,主迴路                 ,Dorm                  ,18701.77
 2017/03,North,DinningHall2,1F便利超商動力,Rented                  ,18603.38
 2017/03,North,Motocycle,主迴路                 ,Admin                  ,17322.56
@@ -378,7 +378,7 @@
 2017/02,North,GraduateDorm1,主迴路                 ,Dorm                  ,15851.25
 2017/02,North,HA1,主迴路                 ,Teach                  ,15777.19
 2017/02,North,Motocycle,主迴路                 ,Admin                  ,15521.56
-2017/02,North,HABuilding2 ,主迴路                 ,Teach                  ,14651.88
+2017/02,North,HABuilding2,主迴路                 ,Teach                  ,14651.88
 2017/02,North,GraduateStudentDormitory1,主迴路                 ,Dorm                  ,13680.75
 2017/02,North,Chu-HsuanFemale,主迴路                 ,Dorm                  ,12618.53
 2017/02,North,Engineer1,主迴路                 ,Teach                  ,10572.25
@@ -435,7 +435,7 @@
 2017/01,North,HA1,主迴路                 ,Teach                  ,17368.25
 2017/01,North,DinningHall2,1F便利超商動力,Rented                  ,16645.13
 2017/01,North,CCAuditorium,主迴路                 ,Admin                  ,16618.97
-2017/01,North,HABuilding2 ,主迴路                 ,Teach                  ,16248.38
+2017/01,North,HABuilding2,主迴路                 ,Teach                  ,16248.38
 2017/01,North,GraduateDorm1,主迴路                 ,Dorm                  ,16082
 2017/01,North,Chu-HsuanFemale,主迴路                 ,Dorm                  ,13806.61
 2017/01,North,GraduateStudentDormitory1,主迴路                 ,Dorm                  ,13764.38
@@ -491,7 +491,7 @@
 2016/12,North,Manegement1,主迴路                 ,Teach                  ,23924.25
 2016/12,North,HA1,主迴路                 ,Teach                  ,21021.31
 2016/12,North,DinningHall2,1F便利超商動力,Rented                  ,19479.38
-2016/12,North,HABuilding2 ,主迴路                 ,Teach                  ,19383.25
+2016/12,North,HABuilding2,主迴路                 ,Teach                  ,19383.25
 2016/12,North,Chu-HsuanFemale,主迴路                 ,Dorm                  ,18169.78
 2016/12,North,GraduateDorm1,主迴路                 ,Dorm                  ,18125.75
 2016/12,North,Motocycle,主迴路                 ,Admin                  ,17935.69
@@ -555,7 +555,7 @@
 2016/11,North,Manegement1,主迴路                 ,Teach                  ,27131.5
 2016/11,North,HA1,主迴路                 ,Teach                  ,24079.13
 2016/11,North,GraduateDorm1,主迴路                 ,Dorm                  ,22105.75
-2016/11,North,HABuilding2 ,主迴路                 ,Teach                  ,21764.13
+2016/11,North,HABuilding2,主迴路                 ,Teach                  ,21764.13
 2016/11,North,DinningHall2,1F便利超商動力,Rented                  ,20176.25
 2016/11,North,Chu-HsuanFemale,主迴路                 ,Dorm                  ,20019.83
 2016/11,North,Motocycle,主迴路                 ,Admin                  ,17892.63
@@ -594,7 +594,7 @@
 2016/11,North,DinningHall2,2F水果部P動力,Rented                  ,0
 2016/10,North,EECS,主迴路                 ,Teach                  ,5425098
 2016/10,North,ActivityCenter,第一餐聽                ,Rented                  ,2713285
-2016/10,North,HABuilding2 ,主迴路                 ,Teach                  ,1220176
+2016/10,North,HABuilding2,主迴路                 ,Teach                  ,1220176
 2016/10,North,Manegement1,主迴路                 ,Teach                  ,577197.8
 2016/10,North,Motocycle,主迴路                 ,Admin                  ,530126.5
 2016/10,North,Tien_gia_bin,主迴路                 ,Teach                  ,368665.9
@@ -656,7 +656,7 @@
 2016/09,North,EECS,主迴路                 ,Teach                  ,5042575
 2016/09,North,DinningHall2,1F動力1,Rented                  ,4440173
 2016/09,North,DinningHall2,1F動力2,Rented                  ,4197488
-2016/09,North,HABuilding2 ,主迴路                 ,Teach                  ,1177640
+2016/09,North,HABuilding2,主迴路                 ,Teach                  ,1177640
 2016/09,North,Badminton,主迴路                 ,Admin                  ,877749.7
 2016/09,North,Manegement1,主迴路                 ,Teach                  ,524313.4
 2016/09,North,Motocycle,主迴路                 ,Admin                  ,501408.2
